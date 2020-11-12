@@ -20,7 +20,7 @@ Unsplash API Integration
 
 
 
-//Features
+#Features
 
 In this site we have used unsplash api and using axios we are fetching photos.
 
