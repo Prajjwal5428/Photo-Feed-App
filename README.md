@@ -1,4 +1,4 @@
-This is a photo feed Site
+This is a PHOTO FEED Site
 
 In this site we have used unsplash api and using axios we are fetching photos.
 
