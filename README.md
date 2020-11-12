@@ -1,9 +1,5 @@
 This is a PHOTO FEED Site                                                                                                          # yellow-class-project
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-Unsplash API Integration
------------------------------
-![send](https://user-images.githubusercontent.com/65626004/98983221-7a9d4e00-2546-11eb-8c0c-9394eb8f6dd4.PNG)
 
 Working Site Demo
 -----------------------------
@@ -15,6 +11,13 @@ For Live Demo Visit:-
 
 
 https://codepen.io/Deathstroke5428/full/GRqPOYR
+
+
+
+Unsplash API Integration
+-----------------------------
+![send](https://user-images.githubusercontent.com/65626004/98983221-7a9d4e00-2546-11eb-8c0c-9394eb8f6dd4.PNG)
+
 
 
 //Features
