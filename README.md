@@ -1,6 +1,6 @@
 This is a photo feed Site
 
-In this site we have used unspash api and using axios we are fetching photos.
+In this site we have used unsplash api and using axios we are fetching photos.
 
 This is a infinite scroll photo feed.
 
