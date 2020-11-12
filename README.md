@@ -1,4 +1,4 @@
-This is a PHOTO FEED Site                                                                                                          # yellow-class-project
+This is a React PHOTO FEED Site                                                                                                          # yellow-class-project
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Working Site Demo
@@ -27,6 +27,8 @@ In this site we have used unsplash api and using axios we are fetching photos.
 This is a infinite scroll photo feed.
 
 Lazy loading is in use.
+
+Using React front-end is made.
 
 Photos fetched are vibrant.
 
