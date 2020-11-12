@@ -1,4 +1,4 @@
-This is a PHOTO FEED Site
+This is a PHOTO FEED Site                                                                                                          # yellow-class-project
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
  
 Unsplash API Integration
@@ -26,7 +26,7 @@ This is a infinite scroll photo feed.
 Photos fetched are vibrant.
 
 
-# yellow-class-project
+
 
 
 
