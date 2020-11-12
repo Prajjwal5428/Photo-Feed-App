@@ -23,6 +23,8 @@ In this site we have used unsplash api and using axios we are fetching photos.
 
 This is a infinite scroll photo feed.
 
+Lazy loading is in use.
+
 Photos fetched are vibrant.
 
 
