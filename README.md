@@ -1,6 +1,6 @@
-This is a React PHOTO FEED Site                                                                                                          # yellow-class-project
+This is a React PHOTO FEED Site                                                                                                         # yellow-class-project
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+                                                                                                                                        ###Hosting done on NETLIFY
 Working Site Demo
 -----------------------------
 
@@ -23,6 +23,8 @@ Unsplash API Integration
 
 
 #Features
+
+This site is netlify hosted.
 
 In this site we have used unsplash api and using axios we are fetching photos.
 
