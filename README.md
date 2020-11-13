@@ -1,6 +1,6 @@
-This is a React PHOTO FEED Site                                                                                                         # yellow-class-project
------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                                                        ###Hosting done on NETLIFY
+This is a React PHOTO FEED Site                                                     # yellow-class-project                                         ###Hosting done on NETLIFY
+----------------------------------------------------------------------------------------------------------
+                                                                                                                                       
 Working Site Demo
 -----------------------------
 
