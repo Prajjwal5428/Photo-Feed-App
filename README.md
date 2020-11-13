@@ -6,7 +6,7 @@ Working Site Demo
 
 For Live Demo Visit:-
 ====================================================================
-## Link to the website : [https://focused-shannon-57f8b5.netlify.app/](https://focused-shannon-57f8b5.netlify.app/) 
+## Link to the website : [https://prajjwal-mishra-photo-feed.netlify.app/](https://prajjwal-mishra-photo-feed.netlify.app/) 
 
 ![send2](https://user-images.githubusercontent.com/65626004/98983233-7e30d500-2546-11eb-9e86-5b91608ac1e0.PNG)
 
