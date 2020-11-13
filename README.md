@@ -4,11 +4,13 @@ This is a React PHOTO FEED Site                                                 
 Working Site Demo
 -----------------------------
 
-![send2](https://user-images.githubusercontent.com/65626004/98983233-7e30d500-2546-11eb-9e86-5b91608ac1e0.PNG)
-
 For Live Demo Visit:-
 ====================================================================
 ## Link to the website : [https://focused-shannon-57f8b5.netlify.app/](https://focused-shannon-57f8b5.netlify.app/) 
+
+![send2](https://user-images.githubusercontent.com/65626004/98983233-7e30d500-2546-11eb-9e86-5b91608ac1e0.PNG)
+
+
 
 https://codepen.io/Deathstroke5428/full/GRqPOYR
 
